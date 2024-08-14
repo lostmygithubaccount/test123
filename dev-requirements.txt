@@ -1,0 +1,8 @@
+#uv
+ruff
+build
+ipython
+nbclient
+ipykernel
+
+-r requirements.txt
